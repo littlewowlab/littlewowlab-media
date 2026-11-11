@@ -12,7 +12,11 @@
     "instagram",
     "facebook"
    ],
-   "status": "scheduled (owner test, approved in chat)"
+   "status": "published",
+   "urls": {
+    "facebook": "https://facebook.com/122093681019555717/posts/122093709507555717",
+    "instagram": "https://www.instagram.com/p/Dfm8hEYCMav/"
+   }
   },
   {
    "id": "02",
@@ -25,7 +29,14 @@
     "tiktok",
     "youtube"
    ],
-   "status": "scheduled (owner test, approved in chat)"
+   "status": "published",
+   "urls": {
+    "facebook": "https://facebook.com/reel/2290144024865165",
+    "instagram": "https://www.instagram.com/reel/Dfm8CFhpMPr/",
+    "tiktok": "https://www.tiktok.com/@LittleWowLab/video/7706955526202019092",
+    "youtube": "https://www.youtube.com/shorts/Yagbbo0RQdQ"
+   },
+   "note": "YouTube published; custom thumbnail rejected (channel not verified)"
   },
   {
    "id": "03",
