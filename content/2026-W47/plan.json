@@ -1,0 +1,241 @@
+{
+ "week": "2026-W47",
+ "posts": [
+  {
+   "id": "01",
+   "kind": "carousel",
+   "slides": [
+    {
+     "type": "hook",
+     "photo": "p01",
+     "text": "30 screen-free crafts with a WOW moment",
+     "sub": "Kids make it. Then they play with it."
+    },
+    {
+     "type": "photo",
+     "photo": "p07",
+     "num": 1,
+     "title": "Flowers that bloom on water",
+     "caption": "Write a secret inside. Watch the petals open."
+    },
+    {
+     "type": "photo",
+     "photo": "p15",
+     "num": 2,
+     "title": "A lantern that really glows",
+     "caption": "Tissue-paper windows + a battery tea light."
+    },
+    {
+     "type": "photo",
+     "photo": "p08",
+     "num": 3,
+     "title": "Butterflies that turn into rainbows",
+     "caption": "Marker lines + a few drops of water = swirling colors."
+    },
+    {
+     "type": "photo",
+     "photo": "p03",
+     "num": 4,
+     "title": "Spin it. The bird flies into the cage.",
+     "caption": "A 200-year-old toy that still amazes."
+    },
+    {
+     "type": "cta",
+     "photo": "p22",
+     "title": "Try 3 projects free",
+     "sub": "Free sampler · link in bio",
+     "color": 2
+    }
+   ]
+  },
+  {
+   "id": "02",
+   "kind": "video",
+   "seconds_per_scene": 2.6,
+   "scenes": [
+    {
+     "type": "hook",
+     "photo": "p07",
+     "pos": "38% 50%",
+     "text": "This paper flower blooms on water 🌸",
+     "sub": "write a secret inside first"
+    },
+    {
+     "type": "tip",
+     "title": "Make it in 5 minutes",
+     "lines": [
+      "Write a secret word in the middle",
+      "Fold every petal inward",
+      "Set it gently on water"
+     ],
+     "color": 2
+    },
+    {
+     "type": "photo",
+     "photo": "p07",
+     "title": "The petals open by themselves",
+     "caption": "Paper drinks the water and unfolds.",
+     "pos": "38% 50%"
+    },
+    {
+     "type": "hook",
+     "photo": "p07",
+     "pos": "38% 50%",
+     "text": "Make a whole bouquet of secrets",
+     "sub": "a new message every time"
+    },
+    {
+     "type": "cta",
+     "photo": "p07",
+     "title": "Free flower template",
+     "sub": "In our free sampler · link in bio",
+     "color": 2,
+     "pos": "38% 50%"
+    }
+   ]
+  },
+  {
+   "id": "03",
+   "kind": "carousel",
+   "slides": [
+    {
+     "type": "hook",
+     "photo": "p23",
+     "text": "5 rainy-day crafts kids beg to replay",
+     "sub": "Save this for the next 'I'm bored'"
+    },
+    {
+     "type": "photo",
+     "photo": "p12",
+     "num": 1,
+     "title": "Straw rockets",
+     "caption": "One big puff and it flies across the room."
+    },
+    {
+     "type": "photo",
+     "photo": "p05",
+     "num": 2,
+     "title": "Paper helicopters",
+     "caption": "Drop them from a step and race them down."
+    },
+    {
+     "type": "photo",
+     "photo": "p20",
+     "num": 3,
+     "title": "Shadow puppet theater",
+     "caption": "A flashlight turns paper into giant shadows."
+    },
+    {
+     "type": "photo",
+     "photo": "p21",
+     "num": 4,
+     "title": "Wall marble run",
+     "caption": "Tape ramps to the wall. Marbles: not for under-3s."
+    },
+    {
+     "type": "photo",
+     "photo": "p23",
+     "num": 5,
+     "title": "Tabletop mini-golf",
+     "caption": "A whole course on the kitchen table."
+    },
+    {
+     "type": "cta",
+     "photo": "p19",
+     "title": "All 30 projects + templates",
+     "sub": "Make It WOW! · link in bio",
+     "color": 4
+    }
+   ]
+  },
+  {
+   "id": "04",
+   "kind": "video",
+   "seconds_per_scene": 2.6,
+   "scenes": [
+    {
+     "type": "hook",
+     "photo": "p22",
+     "text": "Family game night from 1 sheet of paper",
+     "sub": "a fortune teller with silly challenges"
+    },
+    {
+     "type": "tip",
+     "title": "How to play",
+     "lines": [
+      "Pick a color and spell it out",
+      "Pick a number",
+      "Lift the flap and do the challenge!"
+     ],
+     "color": 4
+    },
+    {
+     "type": "photo",
+     "photo": "p22",
+     "title": "Do a silly dance!",
+     "caption": "Tell a joke. Hug the person next to you."
+    },
+    {
+     "type": "hook",
+     "photo": "p22",
+     "text": "Kids write the challenges for the grown-ups",
+     "sub": "then switch"
+    },
+    {
+     "type": "cta",
+     "photo": "p22",
+     "title": "Free printable template",
+     "sub": "In our free sampler · link in bio",
+     "color": 4
+    }
+   ]
+  },
+  {
+   "id": "05",
+   "kind": "carousel",
+   "slides": [
+    {
+     "type": "hook",
+     "photo": "p08",
+     "text": "Gifts kids can make (no shopping)",
+     "sub": "Made by little hands, made to keep"
+    },
+    {
+     "type": "photo",
+     "photo": "p18",
+     "num": 1,
+     "title": "A kid-made coupon book",
+     "caption": "Good for 1 big hug. Breakfast in bed. A dance party."
+    },
+    {
+     "type": "photo",
+     "photo": "p01",
+     "num": 2,
+     "title": "A pop-up dragon card",
+     "caption": "Open it and the dragon leaps off the page. Perfect for any celebration."
+    },
+    {
+     "type": "photo",
+     "photo": "p15",
+     "num": 3,
+     "title": "A glowing paper lantern",
+     "caption": "Star windows glow on the walls (battery tea light only)."
+    },
+    {
+     "type": "photo",
+     "photo": "p16",
+     "num": 4,
+     "title": "A desk buddy for Grandpa's desk",
+     "caption": "A tube becomes a robot that holds the pens."
+    },
+    {
+     "type": "cta",
+     "photo": "p06",
+     "title": "30 make-and-keep projects",
+     "sub": "Make It WOW! · link in bio",
+     "color": 1
+    }
+   ]
+  }
+ ]
+}
