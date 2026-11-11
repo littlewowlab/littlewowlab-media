@@ -43,3 +43,17 @@ Good across the board: links are exactly https://payhip.com/b/uJxGl and https://
 4. 05-1 and 05-2 are the same coupon photo, and p01 (the dragon card) appears on 05-3 and 05-6 as well as 01-1, three times this week. Use p15 or p16 for the 05-6 CTA, and a different crop or photo for the 05-1 hook.
 5. 05-3: the dragon card reads "Happy Birthday!", which is off-message for a holiday-gifts post. Acceptable, but if possible use a version that doesn't say birthday, or change the subtitle to "Open it and the dragon leaps off the page. Perfect for any celebration."
 6. 05-5 title: "A desk buddy for the office" makes it sound like a gift for a parent's work desk. Change it to "A desk buddy for Grandpa's desk".
+
+## Re-review (2026-11-11)
+
+Re-checked posts.json, plan.json, all 19 slides, both covers, and frames of 02.mp4 and 04.mp4 every 2.2 s. ffprobe shows h264 1080x1920 plus an AAC audio stream on both videos, 11.4 s long.
+
+**Both videos:** audio PASS (mean -29.6 dB, peak -7.2 dB) · hook text out of the bottom zone PASS (text ends at y≈1400 of 1920, covers at y≈1385) · tip scene enlarged PASS (readable, still top-weighted but fine) · AI flags: still not in posts.json, so the publisher must set them. This is a reminder, not a render fix.
+
+**01:** 1 PASS (the code wheel was replaced by p03 Spinning Illusion Disc) · 2 PASS (n/a, slide replaced) · 3 PASS (the CTA is now p22, which is in the sampler) · 4 PASS
+**02:** 1 PASS (minimum fix: hook, sub-line and IG first line updated) · 2 PASS (accepted: the hook no longer promises a hidden secret, and the cover reads as the end result) · 3 PASS · 4 PASS (the flower is fully in frame)
+**03:** 1 PASS (marble note in the caption and on 03-5) · 2 PASS · 3 FIX, minor and non-blocking: the hook now uses p23, which repeats slide 03-6 (mini-golf). My earlier suggestion caused this. · 4 PASS (accepted)
+**04:** PASS (render fixes applied)
+**05:** 1 PASS (tea-light note in the caption and on 05-4) · 2 PASS · 3 PASS · 4 PASS (hook p08, CTA p06; p01 now appears only on 01-1 and 05-3) · 5 PASS · 6 PASS
+
+New blocking problems: none. Spelling, links, handles, hashtags and the AI disclosure are all fine. No claim that a real child made anything, and no invented numbers or testimonials.
