@@ -1,0 +1,17 @@
+{"out": "v2-straw-rocket.mp4", "music": 0.28, "cover_at": 3.2,
+ "segments": [
+  {"clip": "straw-rocket", "ss": 1.6, "t": 8.2, "speed": 1.0, "layout": "full",
+   "texts": [
+    {"text": "A straw. A sheet of paper.", "from": 0, "to": 1.9, "y": 0.68, "size": 84},
+    {"text": "One big puff…", "from": 1.9, "to": 4.2, "y": 0.68, "size": 84},
+    {"text": "Bullseye! 🎯", "from": 5.0, "to": 6.6, "y": 0.68, "size": 92},
+    {"text": "Can your kid beat that?", "from": 6.6, "to": 8.2, "y": 0.68, "size": 84}]},
+  {"clip": "straw-rocket", "ss": 3.2, "t": 6.6, "speed": 1.0, "layout": "top", "color": 3, "crop_y": 0.08,
+   "title": "Make it in 5 minutes:",
+   "steps": [
+    {"text": "Roll paper around a pencil, tape it", "at": 0.4},
+    {"text": "Pinch and tape one end shut", "at": 1.6},
+    {"text": "Add paper fins and color it", "at": 2.8},
+    {"text": "Slide it on a straw and blow!", "at": 4.0}],
+   "cta": {"text": "All 30 projects: link in bio", "at": 5.2}}
+ ]}
