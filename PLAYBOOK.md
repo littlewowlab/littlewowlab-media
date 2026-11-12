@@ -2,6 +2,7 @@
 
 Runs every Sunday morning (Asia/Jerusalem) for the coming Monday-Sunday. `<week>` = the ISO week of the coming Monday, e.g. `2026-W48`.
 
+0. **Scout** writes `research/<date>.md`: who is winning in the niche and which formats to borrow.
 1. **Analyst** writes `reports/<last-week>.md` from Metricool data.
 2. **Strategist** writes `content/<week>/brief.md` (max 5 posts).
 3. **Creator** writes `plan.json`, renders media with `tools/render.py`, writes `posts.json`.
