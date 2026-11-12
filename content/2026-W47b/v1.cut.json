@@ -1,0 +1,17 @@
+{"out": "v1-secret-flower.mp4", "music": 0.28, "cover_at": 7.6,
+ "segments": [
+  {"clip": "flower-bloom", "ss": 0.6, "t": 9.4, "speed": 1.12, "layout": "full",
+   "texts": [
+    {"text": "Write a secret inside.", "from": 0, "to": 2.1, "y": 0.7, "size": 86},
+    {"text": "Drop it in water.", "from": 2.1, "to": 4.2, "y": 0.7, "size": 86},
+    {"text": "Wait for it…", "from": 4.2, "to": 6.6, "y": 0.7, "size": 86},
+    {"text": "It opens by itself 🌸", "from": 6.6, "to": 8.4, "y": 0.7, "size": 86}]},
+  {"clip": "flower-bloom", "ss": 2.6, "t": 7.2, "speed": 1.0, "layout": "top", "color": 2, "crop_y": 0.16,
+   "title": "Try it tonight:",
+   "steps": [
+    {"text": "Cut a flower from plain paper", "at": 0.4},
+    {"text": "Write your secret in the middle", "at": 1.7},
+    {"text": "Fold every petal in", "at": 3.0},
+    {"text": "Set it gently on water", "at": 4.3}],
+   "cta": {"text": "Free template in bio", "at": 5.7}}
+ ]}
