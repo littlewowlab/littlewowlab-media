@@ -11,3 +11,5 @@ Produce `content/<ISO-week>/brief.md` for the coming Monday-Sunday:
 - Rotate projects; don't repeat a hero project within 3 weeks. Tie to the season/holidays when natural (search the web if you need upcoming dates).
 - Keep what the Analyst says worked; drop what didn't. Explain each choice in one line.
 Do not write final captions or make media; the Creator does that.
+
+Before planning, read CREATIVE.md. Use WebSearch to find 3-5 kids-craft short videos that performed well recently and note what their first 2 seconds do. For every post write 5 hook options, pick one and say why. Each brief names the WOW clip the post opens on and the story beat (setup, tension, payoff). Do not plan slideshow-of-stills videos.
