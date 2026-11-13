@@ -1,3 +1,6 @@
 {"week":"2026-W47b","blogId":"8034858","posts":[
- {"id":"v1-secret-flower","metricool_id":425669675,"uuid":"-1004287922665271784","date":"2026-11-12T21:00:00+02:00","networks":["instagram","facebook","tiktok","youtube"],"status":"scheduled (owner approved in chat 2026-11-12)"}
+ {"id":"v1-secret-flower","uuid":"-1004287922665271784","date":"2026-11-12T21:00:00+02:00","status":"published",
+  "urls":{"facebook":"https://facebook.com/reel/1120423664226451","instagram":"https://www.instagram.com/reel/Dfpwr3tsHUE/","tiktok":"https://www.tiktok.com/@littlewowlab/video/7707362499003174196","youtube":"https://www.youtube.com/shorts/khD1yS_4XjU"}},
+ {"id":"v2-straw-rocket","uuid":"-8814253870358970116","date":"2026-11-13T22:31:00+02:00","status":"published (owner approved in chat 2026-11-13)",
+  "urls":{"facebook":"https://facebook.com/reel/3536358196523714","instagram":"https://www.instagram.com/reel/DfsfwlhQwuJ/","tiktok":"https://www.tiktok.com/@littlewowlab/video/7707754878302571828","youtube":"https://www.youtube.com/shorts/JR3P7sHvutw"}}
 ]}
