@@ -87,7 +87,7 @@ def main(spec_path):
     total = sum(x[1] for x in segs); n = len(segs)
     cmd = ["ffmpeg", "-y", "-loglevel", "error"]
     for p, _ in segs: cmd += ["-i", p]
-    cmd += ["-stream_loop", "-1", "-i", os.path.join(B, "audio", "bed.wav")]
+    cmd += ["-stream_loop", "-1", "-i", os.path.join(B, "audio", spec.get("bed", "bed2") + ".wav")]
     cat = "".join(f"[{i}:v][{i}:a]" for i in range(n)) + f"concat=n={n}:v=1:a=1[v][ca]"
     mv = spec.get("music", 0.3)
     fc = f"{cat};[{n}:a]volume={mv},afade=t=out:st={total-1:.2f}:d=1[m];[ca][m]amix=inputs=2:duration=first:normalize=0[a]"
