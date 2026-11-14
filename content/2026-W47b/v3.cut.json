@@ -1,0 +1,17 @@
+{"out": "v3-dragon-card.mp4", "music": 0.45, "cover_at": 3.0,
+ "segments": [
+  {"clip": "dragon-card", "ss": 0.3, "t": 9.2, "speed": 1.1, "layout": "full", "clip_volume": 0.5,
+   "texts": [
+    {"text": "This card is hiding something…", "from": 0, "to": 1.6, "y": 0.7, "size": 80},
+    {"text": "ROAR! 🐉", "from": 1.9, "to": 4.0, "y": 0.7, "size": 100},
+    {"text": "Open, close… it chomps!", "from": 4.0, "to": 6.2, "y": 0.7, "size": 84},
+    {"text": "Best birthday card ever?", "from": 6.2, "to": 8.3, "y": 0.7, "size": 84}]},
+  {"clip": "dragon-card", "ss": 2.6, "t": 6.8, "speed": 1.0, "layout": "top", "color": 5, "crop_y": 0.2, "clip_volume": 0.5,
+   "title": "Make the pop-up mouth:",
+   "steps": [
+    {"text": "Fold a sheet of paper in half", "at": 0.4},
+    {"text": "Cut one short slit at the fold", "at": 1.6},
+    {"text": "Fold both flaps back: a mouth!", "at": 2.8},
+    {"text": "Draw your dragon around it", "at": 4.0}],
+   "cta": {"text": "Dragon template: link in bio", "at": 5.3}}
+ ]}
