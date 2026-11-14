@@ -37,7 +37,13 @@
     "tiktok",
     "youtube"
    ],
-   "status": "scheduled (owner approved in chat 2026-11-14)"
+   "status": "published (owner approved in chat 2026-11-14)",
+   "urls": {
+    "facebook": "https://facebook.com/reel/4546887708899515",
+    "instagram": "https://www.instagram.com/reel/Dfu6uX1I3kz/",
+    "tiktok": "https://www.tiktok.com/@littlewowlab/video/7708105425740123413",
+    "youtube": "https://www.youtube.com/shorts/LUunNpw8vhs"
+   }
   }
  ]
 }
