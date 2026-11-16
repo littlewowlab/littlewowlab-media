@@ -1,0 +1,22 @@
+{"out": "v4-marble-run.mp4", "music": 0.45, "cover_at": 0.6,
+ "segments": [
+  {"clip": "marble-run", "ss": 0.2, "t": 1.85, "speed": 0.85, "layout": "full", "clip_volume": 0.5,
+   "texts": [{"text": "Paper + tape + one marble…", "from": 0, "to": 2.2, "y": 0.72, "size": 80}]},
+  {"clip": "marble-run", "ss": 2.75, "t": 0.8, "speed": 0.7, "layout": "full", "clip_volume": 0.5,
+   "texts": [{"text": "Down it goes…", "from": 0, "to": 1.2, "y": 0.72, "size": 84}]},
+  {"clip": "marble-run", "ss": 6.85, "t": 2.3, "speed": 1.0, "layout": "full", "clip_volume": 0.5,
+   "texts": [{"text": "PLOP! 🎯", "from": 0.5, "to": 2.3, "y": 0.2, "size": 100}]},
+  {"clip": "marble-run", "ss": 0.2, "t": 1.85, "speed": 0.62, "layout": "top", "color": 3, "crop_y": 0.0, "clip_volume": 0.4,
+   "title": "Build one on your wall:",
+   "steps": [
+    {"text": "Fold paper strips into V ramps", "at": 0.4},
+    {"text": "Tape them up in a zigzag", "at": 1.7}]},
+  {"clip": "marble-run", "ss": 6.9, "t": 3.0, "speed": 1.0, "layout": "top", "color": 3, "crop_y": 0.3, "clip_volume": 0.4,
+   "title": "Build one on your wall:",
+   "steps": [
+    {"text": "Fold paper strips into V ramps", "at": 0},
+    {"text": "Tape them up in a zigzag", "at": 0},
+    {"text": "Tape a paper cup at the bottom", "at": 0.2},
+    {"text": "Drop a marble. Fix. Repeat!", "at": 1.2}],
+   "cta": {"text": "All 30 projects: link in bio", "at": 1.9}}
+ ]}
