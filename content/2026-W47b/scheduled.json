@@ -56,7 +56,13 @@
     "tiktok",
     "youtube"
    ],
-   "status": "scheduled (owner said generate and post, 2026-11-17)"
+   "status": "published (owner said generate and post, 2026-11-17)",
+   "urls": {
+    "facebook": "https://facebook.com/reel/1151647997368452",
+    "instagram": "https://www.instagram.com/reel/Df0hlS_OAjB/",
+    "tiktok": "https://www.tiktok.com/@littlewowlab/video/7708913590769683732",
+    "youtube": "https://www.youtube.com/shorts/wU2Ncmv8qBo"
+   }
   }
  ]
 }
