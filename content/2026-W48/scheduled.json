@@ -1,3 +1,26 @@
-{"week":"2026-W48","blogId":"8034858","posts":[
- {"id":"v5-paper-magic","metricool_id":431599700,"uuid":"7700171578676298863","date":"2026-11-17T21:00:00+02:00","networks":["instagram","facebook","tiktok","youtube"],"status":"scheduled (owner asked to post this evening, 2026-11-17)"}
-]}
+{
+ "week": "2026-W48",
+ "blogId": "8034858",
+ "posts": [
+  {
+   "id": "v5-paper-magic",
+   "metricool_id": 431599700,
+   "uuid": "7700171578676298863",
+   "date": "2026-11-17T21:00:00+02:00",
+   "networks": [
+    "instagram",
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "status": "published",
+   "urls": {
+    "facebook": "https://facebook.com/reel/1499158822356985",
+    "instagram": "https://www.instagram.com/reel/Df2pORzqa0h/",
+    "tiktok": "https://www.tiktok.com/@littlewowlab/video/7709218952244710708",
+    "youtube": "https://www.youtube.com/shorts/KjZ-1HNPwpM"
+   },
+   "note": "YouTube published; custom cover rejected (channel not phone-verified)"
+  }
+ ]
+}
