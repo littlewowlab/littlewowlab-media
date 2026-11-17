@@ -26,3 +26,10 @@ Only as full tutorials ("Save this: bloom-on-water flowers in 5 minutes", every 
 
 ## Captions
 Line 1 repeats the hook's promise in different words. Then the steps in 3 short lines. Then one CTA. No walls of hashtags (5-6).
+
+## Audio and covers (research 2026-11-17)
+What the top "kids crafts" reels on Instagram actually do (explore results checked in the browser: e.g. diy_shorts_45 caterpillar 92.9K likes, geniokid.app snail 12K, craftooria frog 2.1K):
+- **Audio:** almost all use *Original audio*: the craft's own sounds or a playful/funny voice track, not chart songs. Weekly "trending audio" lists (Metricool, SocialPilot) are dominated by holiday/pop tracks used for gift guides, couples and dance trends.
+- **So:** every video keeps its natural craft sound (normalised, no generic music bed). On Instagram, where the API can attach licensed catalog audio, add a seasonal trending track at low volume under the craft sound when it fits the post (e.g. Christmas-break content in Nov/Dec). Never bake copyrighted songs into the file.
+- **Covers:** `tools/cover.py`. Hands + the finished craft filling the frame, plain background, saturated colour, ONE short bold line (3-5 words) inside the centre 1080x1080 square so it survives the grid crops. No logo, no frames, no collage. Check the 9:16, 4:5 and 1:1 crops before posting.
+- TikTok (personal account) ignores custom covers and API audio: the first frame is the cover, so open on the WOW moment.
